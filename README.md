@@ -1,12 +1,12 @@
 # Privacy-Impact-Assessments-of-Technology-AI-Companies
 Research Project | University of Guelph
 
-Objective
+# Objective
 
 
 This project analyzes Privacy Impact Assessments (PIAs), GDPR, and NIST AI policies from leading technology companies—Microsoft, Google, and IBM. The goal is to evaluate their data protection practices, identify compliance gaps, and assess privacy risks in AI-powered systems. The study focuses on data retention, transparency, data security, and ethical AI use to improve privacy management strategies.
 
-Skills Learned
+# Skills Learned
 
 
 Conducted comparative analysis of PIAs under GDPR and NIST AI frameworks.
@@ -16,7 +16,7 @@ Gained expertise in analyzing data governance, transparency policies, and AI eth
 Developed data analysis and documentation skills through structured reports and spreadsheets.
 
 
-Step-by-Step Methodology
+# Step-by-Step Methodology
 
 
 1. Research Design
@@ -49,7 +49,7 @@ Created comprehensive tables summarizing findings across companies.
 Drafted a detailed report with recommendations for enhancing privacy frameworks.
 
 
-Tools Used
+# Tools Used
 
 
 Frameworks: GDPR, NIST AI, Privacy Impact Assessment (PIA).
@@ -57,7 +57,7 @@ Analysis Tools: Comparative spreadsheets for data tracking and risk identificati
 Documentation: Research paper and presentation slides summarizing key findings.
 
 
-Key Findings
+# Key Findings
 
 
 Microsoft, Google, and IBM differ significantly in data retention, privacy governance, and AI ethics.
