@@ -22,21 +22,21 @@ Step-by-Step Methodology
 1. Research Design
 
 
-Data Collection: Reviewed public privacy policies, GDPR compliance documents, and NIST AI frameworks of Microsoft, Google, and IBM.
-Framework Selection: Applied GDPR, NIST AI, and PIA frameworks to assess privacy practices.
+    Data Collection: Reviewed public privacy policies, GDPR compliance documents, and NIST AI frameworks of Microsoft, Google, and IBM.
+    Framework Selection: Applied GDPR, NIST AI, and PIA frameworks to assess privacy practices.
 
 
 2. Comparative Analysis
 
 
-Data Life Cycle Assessment:
-Analyzed data collection, processing, storage, sharing, and deletion practices.
-Evaluated adherence to GDPR principles like data minimization, purpose limitation, and consent management.
+    Data Life Cycle Assessment:
+    Analyzed data collection, processing, storage, sharing, and deletion practices.
+    Evaluated adherence to GDPR principles like data minimization, purpose limitation, and consent management.
 
 
-Privacy Impact Assessments:
-Identified privacy risks in AI-driven services.
-Compared how companies manage personal data, third-party sharing, and data retention.
+    Privacy Impact Assessments:
+    Identified privacy risks in AI-driven services.
+    Compared how companies manage personal data, third-party sharing, and data retention.
 
 
 3. Risk Identification & Evaluation
@@ -64,7 +64,4 @@ Microsoft, Google, and IBM differ significantly in data retention, privacy gover
 Identified gaps in third-party data sharing policies and transparency practices.
 Highlighted the need for continuous privacy audits and improved data protection mechanisms.
 
-
-
-Visuals
 
